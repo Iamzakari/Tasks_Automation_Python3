@@ -4,7 +4,7 @@ import os, sys
 from PIL import Image
 
 
-'''This script uses the Python Imaging Library PIL/Pillow
+'''This script uses the Python Imaging Library PIL Pillow
 to open resize and rotates given images present in a folder one by one'''
 
 
